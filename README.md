@@ -21,28 +21,29 @@ Then visit: http://localhost:5173
 🧱 Tech Stack Overview
 
 1.React : UI library for building SPA
-2.React Router DOM:	Routing between role-based views
-3.Tailwind CSS: Utility-first CSS framework
-4.Lucide React: Icon set for interface elements
-5.Vite: Fast dev server and build tool
-6.LocalStorage: Stores mock authentication state
+</br>
+2.React Router DOM:	Routing between role-based views</br>
+3.Tailwind CSS: Utility-first CSS framework</br>
+4.Lucide React: Icon set for interface elements</br>
+5.Vite: Fast dev server and build tool</br>
+6.LocalStorage: Stores mock authentication state</br>
 
 
 ## Images
 
 Register page
-<img src="/screenshots/register.png" width="600" alt="register" />
+<img src="/screenshots/register.png" width="600" alt="register" /></br>
 Login page
-<img src="/screenshots/login.png" width="600" alt="login" />
+<img src="/screenshots/login.png" width="600" alt="login" /></br>
 
 Seller Dashboard
-<img src="./screenshots/seller.png" width="600" alt="seller dashboard" />
+<img src="./screenshots/seller.png" width="600" alt="seller dashboard" /></br>
 
 seller profile setting
-<img src="./screenshots/settings.png" width="600" alt="seller profile" />
+<img src="./screenshots/settings.png" width="600" alt="seller profile" /></br>
 
 Add deals
-<img src="./screenshots/deals.png" width="600" alt="seller profile" />
+<img src="./screenshots/deals.png" width="600" alt="seller profile" /></br>
 
 --explore other features : Visit the live site 👉 [Live Demo](https://vdm-ten.vercel.app/)
 
