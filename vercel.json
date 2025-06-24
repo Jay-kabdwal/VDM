@@ -4,5 +4,8 @@
       "src": "client/package.json",
       "use": "@vercel/static-build"
     }
+  ],
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 } 
